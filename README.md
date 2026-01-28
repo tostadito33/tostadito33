@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hola, soy Duarte
 
-<!--
-**tostadito33/tostadito33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de **4º curso del Grado en Inteligencia Artificial** en la **Universidade de Vigo (ESEI – Ourense)**.  
+Tengo una base sólida en aprendizaje automático, análisis de datos y programación, y he trabajado en proyectos académicos relacionados con la aplicación práctica de modelos de IA.
 
-Here are some ideas to get you started:
+Me interesa especialmente seguir desarrollándome en el ámbito de la **Inteligencia Artificial aplicada**, aprendiendo nuevas tecnologías y participando en proyectos con impacto real.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎓 Formación
+- 🎓 **Grado en Inteligencia Artificial** – Universidade de Vigo  
+- 📍 Facultad de Ourense (ESEI)
+
+---
+
+## 💻 Lenguajes y herramientas
+- **Lenguajes:** Python, R, Java, Prolog  
+- **IA / Datos:** Machine Learning, Análisis de Datos  
+- **Herramientas:** Git, Jupyter Notebook
+
+---
+
+## 🚀 Intereses
+- Inteligencia Artificial aplicada  
+- Ciencia de Datos  
+- Desarrollo de proyectos tecnológicos  
+- Aprendizaje continuo
+
+---
+
+## 📫 Contacto
+- 💼 LinkedIn: https://www.linkedin.com/in/duarte-fernandez-piñeiro-935b4b3a8
