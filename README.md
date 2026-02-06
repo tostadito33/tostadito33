@@ -29,4 +29,4 @@ Me interesa especialmente seguir desarrollándome en el ámbito de la **Intelige
 ---
 
 ## 📫 Contacto
-- 💼 LinkedIn: https://www.linkedin.com/in/duarte-fernandez-piñeiro-935b4b3a8
+- 💼 LinkedIn: www.linkedin.com/in/dfernandezpineiro
